@@ -1,4 +1,10 @@
+## header footer つき　Layoutを Home page　と　Blog page と Contact page に適用
 
+<img width="1440" alt="スクリーンショット 2021-12-19 23 56 15" src="https://user-images.githubusercontent.com/3797539/146679565-af315080-81e1-498c-a487-0b28874381f6.png">
+<img width="1464" alt="スクリーンショット 2021-12-19 23 56 19" src="https://user-images.githubusercontent.com/3797539/146679566-aa7fa02e-683e-4b29-807c-fc8be499f609.png">
+<img width="1464" alt="スクリーンショット 2021-12-19 23 56 22" src="https://user-images.githubusercontent.com/3797539/146679568-035c8455-97ec-40b5-84d1-40bdd97a00c2.png">
+
+## 縦横それぞれに対してcenter揃え
 ![スクリーンショット 2021-12-19 16 28 39](https://user-images.githubusercontent.com/3797539/146667309-d67be52f-093e-45d9-b057-3e4f0e806617.png)
 
 <img width="1063" alt="スクリーンショット 2021-12-18 20 54 37" src="https://user-images.githubusercontent.com/3797539/146660497-90351efb-aa06-4d5d-83d8-12a73955a811.png">
