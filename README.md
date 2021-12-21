@@ -1,3 +1,7 @@
+## Contact page にコンテンツを追加
+<img width="1552" alt="スクリーンショット 2021-12-21 21 46 39" src="https://user-images.githubusercontent.com/3797539/146932322-96a7514c-32f8-485c-b35f-ebc58f140a8a.png">
+
+
 ## header footer つき　Layoutを Home page　と　Blog page と Contact page に適用
 
 <img width="1440" alt="スクリーンショット 2021-12-19 23 56 15" src="https://user-images.githubusercontent.com/3797539/146679565-af315080-81e1-498c-a487-0b28874381f6.png">
