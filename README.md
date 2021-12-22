@@ -1,10 +1,10 @@
 # webサイト
 https://nextjs-hp-gaia2013.vercel.app/
 
-## Blog/:id へ遷移
+## /posts/:id へ遷移
 ![スクリーンショット 2021-12-22 22 40 47](https://user-images.githubusercontent.com/3797539/147101829-8418932e-e366-48a9-8ef1-1d29ce18cae0.png)
 
-## Blog一覧
+## /posts
 <img width="1064" alt="スクリーンショット 2021-12-22 21 01 05" src="https://user-images.githubusercontent.com/3797539/147101846-c1c40765-37a7-4186-a475-663b2c4aedc4.png">
 
 ## Contact page にコンテンツを追加
